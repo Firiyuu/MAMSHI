@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "185179912631",
+    "firebase_url": "https://momshie-b6911.firebaseio.com",
+    "project_id": "momshie-b6911",
+    "storage_bucket": "momshie-b6911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185179912631:android:99e54ded64d12b17",
+        "android_client_info": {
+          "package_name": "com.example.espina.momshie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185179912631-f4ak1r69g7khe0f33is5frpasd6af65l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.espina.momshie",
+            "certificate_hash": "1db01c177ee56eeeb8d3bba3f90df76387e956f6"
+          }
+        },
+        {
+          "client_id": "185179912631-mioin5ifv454t2la81kdelpvu3smgocq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKBPPU6pejX1_IaFpOLphbpeUhaqQjp10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185179912631-mioin5ifv454t2la81kdelpvu3smgocq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

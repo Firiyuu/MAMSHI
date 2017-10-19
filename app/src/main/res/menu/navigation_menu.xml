@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_account"
+        android:icon="@mipmap/ic_person_outline_black_24dp"
+        android:title="My Account" />
+
+    <item android:id="@+id/nav_settings"
+        android:icon="@mipmap/ic_settings_black_24dp"
+        android:title="Settings"/>
+
+    <item android:id="@+id/nav_exercises"
+        android:icon="@mipmap/ic_accessibility_black_24dp"
+        android:title="Exercises"/>
+
+    <item android:id="@+id/nav_tips"
+        android:icon="@mipmap/ic_face_black_24dp"
+        android:title="Tips"/>
+
+    <item android:id="@+id/nav_scheduler"
+        android:icon="@mipmap/ic_date_range_black_24dp"
+        android:title="My Schedule"/>
+
+    <item android:id="@+id/nav_info"
+        android:icon="@mipmap/ic_info_outline_black_24dp"
+        android:title="Info"/>
+
+    <item android:id="@+id/nav_logout"
+        android:icon="@mipmap/ic_input_black_24dp"
+        android:title="Logout"/>
+
+</menu>
